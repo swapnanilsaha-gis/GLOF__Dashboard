@@ -1,6 +1,9 @@
 # GLOF Hazard Risk Assessment · Kargil, Ladakh 
 
 Interactive HTML Dashboard for the Academic Mini Project **"GLOF Hazard Risk Assessment using Remote Sensing-Derived Cryospheric & Topographic Indicators with Random Forest"** — Kargil, Ladakh, India (2000–2024).
+![Dashboard Home](glof-1.png)
+![Glacial Lake Summary](glof-2.png)
+![Conclusion & Interpretation](glof-3.png)
 
 ##  Research Objective
 
