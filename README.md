@@ -1,5 +1,7 @@
 # GLOF Hazard Risk Assessment · Kargil, Ladakh 
 
+### 🔗 Live Dashboard: **https://swapnanilsaha-gis.github.io/GLOF__Dashboard/**
+
 Interactive HTML Dashboard for the Academic Mini Project **"GLOF Hazard Risk Assessment using Remote Sensing-Derived Cryospheric & Topographic Indicators with Random Forest"** — Kargil, Ladakh, India (2000–2024).
 ![Dashboard Home](glof-1.png)
 ![Glacial Lake Summary](glof-2.png)
@@ -52,5 +54,9 @@ Output: Three-class validated GLOF Susceptibility Map: High / Moderate / Low Ris
 The integrated Remote Sensing and Machine Learning approach successfully delineates GLOF hazard susceptibility across Kargil, Ladakh. Accelerating glacial retreat is directly driving glacial lake expansion, with proglacial and periglacial lakes as primary GLOF sources. These findings can directly inform infrastructure planning, 
 early warning systems and disaster risk reduction strategies for downstream communities in the region.
 
-Author: Swapnanil Saha · M.Sc. Geoinformatics, Symbiosis Institute of Geoinformatics
+## Author
+
+**Swapnanil Saha** · Geospatial Analyst (GeoAI, Remote Sensing, Web GIS) · M.Sc. Geoinformatics, Symbiosis Institute of Geoinformatics
+Portfolio: [swapnanilsaha-gis.github.io](https://swapnanilsaha-gis.github.io) · LinkedIn: [linkedin.com/in/swapnanilsaha](https://www.linkedin.com/in/swapnanilsaha) · GitHub: [@swapnanilsaha-gis](https://github.com/swapnanilsaha-gis)
+
 Keywords: GLOF, Remote Sensing, GIS, Random Forest, Glacial Lakes, Cryosphere, Ladakh, Machine Learning
